@@ -1,0 +1,18 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules":true,
+    "**/build":true,
+    "**/config":true,
+    "**/.vscode":true,
+    "**/.gitignore":true
+  },
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 14,
+  "window.menuBarVisibility": "toggle"
+}
